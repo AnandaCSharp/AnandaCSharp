@@ -24,14 +24,6 @@ I love solving real-world problems through code and believe in continuous learni
 
 ---
 
-### My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=dracula" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
----
 
 ### ⚡ Developer's Humor
 
